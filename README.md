@@ -16,5 +16,13 @@ Welcome to my portfolio repository! This repository contains all the projects an
 * **Concept:** TF-IDF Vectorization, Cosine Similarity, Feature Extraction, Vector Mapping.
 * **Goal:** Built a Digital Matchmaker (Tech Stack Recommender) that maps raw user skills to optimal career paths by translating text into high-dimensional vector spaces and calculating angular alignment.
 
+### Week 4: Machine Perception (Object Detection)
+* **Concept:** Computer Vision, Transfer Learning, SSD Architecture, 4D Blob Construction, Confidence Thresholding.
+* **Goal:** Engineered a robust Object Detection pipeline using OpenCV and a pre-trained MobileNet-SSD model. Translated raw visual matrices into decoded bounding boxes and class labels, successfully implementing a strict 80% confidence gatekeeper to prevent AI hallucinations.
+
+
+
+
+
 ---
 *Developed with ❤️ by Danii during the DecodeLabs AI Training Program (Batch 2026).*
